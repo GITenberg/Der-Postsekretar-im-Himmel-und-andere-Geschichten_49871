@@ -1,4 +1,8 @@
 _repo: Der-Postsekretar-im-Himmel-und-andere-Geschichten_49871
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49871-h/images/cover.jpg
 creator:
   author:
     agent_name: Thoma, Ludwig
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1607
     wikipedia: http://en.wikipedia.org/wiki/Ludwig_Thoma
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49871#Der-Postsekretar-im-Himmel-und-andere-Geschichten
 gutenberg_issued: '2015-09-03'
 gutenberg_type: Text
 identifiers:
